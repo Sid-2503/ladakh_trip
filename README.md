@@ -1,4 +1,4 @@
-![image](https://github.com/Sid-2503/ladakh_trip/assets/89977643/2638e3e7-732e-46d3-9460-1d3fb3ef10db)# ladakh_trip
+# ladakh_trip
 Created this Project using the technologies **HTML, CSS, PHP and MYSQL **
 The Major role was of **XAMPP** server
 
